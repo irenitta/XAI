@@ -9,4 +9,4 @@ This material is first initialized and created by Malthe Jelstrup, then modified
 Please go to the [jupyter notebook](./XAI_GenAI.ipynb) to start the project. All instructions and exercises are listed there.
 
 ## Contact
-Nina Weng (ninwe[at]dtu.dk)
+Nina Weng (ninwe[at]dtu.dk)# XAI
